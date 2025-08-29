@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: AI-Governance-Risk-Compliance-Documentation
+message: If you use this documentation, please cite it. Your citation helps the community and acknowledges my work.
+type: dataset
+
+authors:
+  - family-names: Hummayoun
+    given-names: Mohammad Ahsan
+    orcid: ""
+
+version: 1.0.0
+date-released: 2025-08-29
+repository-code: https://github.com/ahsan-141117/AI-Governance-Risk-Compliance-Documentation
+
+preferred-citation:
+  type: dataset
+  title: AI-Governance-Risk-Compliance-Documentation
+  authors:
+    - family-names: Hummayoun
+      given-names: Mohammad Ahsan
+  year: 2025
+  url: https://github.com/ahsan-141117/AI-Governance-Risk-Compliance-Documentation
